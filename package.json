@@ -1,0 +1,14 @@
+{
+  "name": "sgnpmcore",
+  "version": "1.0.0",
+  "description": "core library for sait gumus's standarts",
+  "main": "index.js",
+  "scripts": {
+    "test": "coretest"
+  },
+  "keywords": [
+    "sait"
+  ],
+  "author": "sait gumus",
+  "license": "ISC"
+}
